@@ -1,2 +1,2 @@
-# Mini-Games-challenge
-I create the mini games to practice
+# Mini-Games-challenge (Javascript)
+Use setAtribute to change atribute 'src'
